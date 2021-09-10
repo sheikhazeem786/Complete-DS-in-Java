@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch benjaminbulb",
+            "request": "launch",
+            "mainClass": "benjaminbulb",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
+            "name": "Launch countdigit",
+            "request": "launch",
+            "mainClass": "countdigit",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibonacci",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
+            "name": "Launch gcdLcm",
+            "request": "launch",
+            "mainClass": "gcdLcm",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
+            "name": "Launch grading",
+            "request": "launch",
+            "mainClass": "grading",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
+            "name": "Launch isPrime",
+            "request": "launch",
+            "mainClass": "isPrime",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern1",
+            "request": "launch",
+            "mainClass": "pattern1",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern2",
+            "request": "launch",
+            "mainClass": "pattern2",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern3",
+            "request": "launch",
+            "mainClass": "pattern3",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern4",
+            "request": "launch",
+            "mainClass": "pattern4",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern5",
+            "request": "launch",
+            "mainClass": "pattern5",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern6",
+            "request": "launch",
+            "mainClass": "pattern6",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern7",
+            "request": "launch",
+            "mainClass": "pattern7",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern8",
+            "request": "launch",
+            "mainClass": "pattern8",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern9",
+            "request": "launch",
+            "mainClass": "pattern9",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
+            "name": "Launch patternPyramid",
+            "request": "launch",
+            "mainClass": "patternPyramid",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
+            "name": "Launch primeFactorization",
+            "request": "launch",
+            "mainClass": "primeFactorization",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
+            "name": "Launch primeTillN",
+            "request": "launch",
+            "mainClass": "primeTillN",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
+            "name": "Launch printZ",
+            "request": "launch",
+            "mainClass": "printZ",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
+            "name": "Launch printdigits",
+            "request": "launch",
+            "mainClass": "printdigits",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
+            "name": "Launch pythagoreantriplet",
+            "request": "launch",
+            "mainClass": "pythagoreantriplet",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
+            "name": "Launch reversenumber",
+            "request": "launch",
+            "mainClass": "reversenumber",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
+            "name": "Launch rotatenumber",
+            "request": "launch",
+            "mainClass": "rotatenumber",
+            "projectName": "JavaPrograms_626a560b"
+        }
+    ]
+}
