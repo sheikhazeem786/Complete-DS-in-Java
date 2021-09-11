@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch pattern16",
+            "request": "launch",
+            "mainClass": "pattern16",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
             "name": "Launch pattern14",
             "request": "launch",
             "mainClass": "pattern14",
