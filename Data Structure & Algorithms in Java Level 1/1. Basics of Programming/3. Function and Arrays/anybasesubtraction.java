@@ -17,7 +17,7 @@ import java.util.*;
         int ans=0;
         int f=0;
         int c=0;
-           while(n1>0||n2>0 ||c>0){
+           while(n2>0){
             int r1=n1%10;
             n1=n1/10;
             int r2=n2%10;

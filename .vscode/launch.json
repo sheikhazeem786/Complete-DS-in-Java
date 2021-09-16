@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch spanofarray",
+            "request": "launch",
+            "mainClass": "spanofarray",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
             "name": "Launch anybasesubtraction",
             "request": "launch",
             "mainClass": "anybasesubtraction",
