@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch decimaltoanybase",
+            "request": "launch",
+            "mainClass": "decimaltoanybase",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
             "name": "Launch digitfrequency",
             "request": "launch",
             "mainClass": "digitfrequency",
