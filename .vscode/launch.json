@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch findelementinarray",
+            "request": "launch",
+            "mainClass": "findelementinarray",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
             "name": "Launch spanofarray",
             "request": "launch",
             "mainClass": "spanofarray",
