@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch anybasetoanybase",
+            "request": "launch",
+            "mainClass": "anybasetoanybase",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
             "name": "Launch anybasetodecimal",
             "request": "launch",
             "mainClass": "anybasetodecimal",
