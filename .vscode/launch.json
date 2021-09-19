@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch differenceoftwoarrays",
+            "request": "launch",
+            "mainClass": "differenceoftwoarrays",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
             "name": "Launch sumoftwoarrays",
             "request": "launch",
             "mainClass": "sumoftwoarrays",
