@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class reverse{
+public class rotate{
   public static void display(int[] a){
     StringBuilder sb = new StringBuilder();
 
