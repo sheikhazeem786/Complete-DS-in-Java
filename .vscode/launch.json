@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch binarysearch",
+            "request": "launch",
+            "mainClass": "binarysearch",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
             "name": "Launch inverse",
             "request": "launch",
             "mainClass": "inverse",
