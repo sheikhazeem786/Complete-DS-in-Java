@@ -13,8 +13,8 @@ public static void main(String[] args) throws Exception {
     }
     for(int si=0;si<a.length;si++){
         for(int ei=si;ei<a.length;ei++){
-            for(int i=si;i<ei;i++){
-                System.out.println(a[i]+"\t");
+            for(int i=si;i<=ei;i++){
+                System.out.print(a[i]+"\t");
             }
             System.out.println();
         }
