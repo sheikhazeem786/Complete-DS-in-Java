@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch arrays_demo",
+            "request": "launch",
+            "mainClass": "arrays_demo",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
             "name": "Launch subsetsofarray",
             "request": "launch",
             "mainClass": "subsetsofarray",
