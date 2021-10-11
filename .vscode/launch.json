@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch the_state_of_wakanda_1",
+            "request": "launch",
+            "mainClass": "the_state_of_wakanda_1",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
             "name": "Launch arrays_demo",
             "request": "launch",
             "mainClass": "arrays_demo",
