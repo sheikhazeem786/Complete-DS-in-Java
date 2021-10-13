@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch matrix_multiplication",
+            "request": "launch",
+            "mainClass": "matrix_multiplication",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
             "name": "Launch exit_point_of_matrix",
             "request": "launch",
             "mainClass": "exit_point_of_matrix",

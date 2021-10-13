@@ -19,28 +19,28 @@ public class exit_point_of_matrix {
         int dir=0;
         while(true){
             dir=(dir+arr[i][j])%4;
-            if(dir==0){
+            if(dir==0){ //east
                 j++;
                 if(j==arr[0].length){
                     j--;
                     break;
                 }
             }
-            else if(dir==1){
+            else if(dir==1){ //south
                 i++;
                 if(i==arr.length){
                     i--;
                     break;
                 }
             }
-            else if(dir==2){
+            else if(dir==2){ //west
                 j--;
                 if(j==-1){
                     j++;
                     break;
                 }
             }
-            else{
+            else{ //north
                 i--;
                 if(i==-1){
                     i++;
