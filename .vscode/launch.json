@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch saddle_point",
+            "request": "launch",
+            "mainClass": "saddle_point",
+            "projectName": "JavaPrograms_626a560b"
+        },
+        {
+            "type": "java",
             "name": "Launch ring_rotate",
             "request": "launch",
             "mainClass": "ring_rotate",
