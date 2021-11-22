@@ -8,6 +8,8 @@ public class getSubsequence {
         String str=scn.next();
         ArrayList<String> ss= gss(str);
         System.out.println(ss);
+        System.out.println(ss.size());
+
     }
 
     // E -> gss(abc)= [... , ..c , .b. , .bc , a.. , a.c , ab. , abc]
