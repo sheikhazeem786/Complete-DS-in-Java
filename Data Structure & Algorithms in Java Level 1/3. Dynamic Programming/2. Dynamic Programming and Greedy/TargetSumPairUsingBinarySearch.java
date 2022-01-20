@@ -21,6 +21,7 @@ public class TargetSumPairUsingBinarySearch {
                 break;
             }
 
+            //binary search the Other Number
             int left=i+1, right=arr.length-1;
             while(left<=right){
                 int mid=(left+right)/2;
