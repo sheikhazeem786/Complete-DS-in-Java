@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "3. Dynamic Programming/2. Dynamic Programming and Greedy",
         "3. Dynamic Programming/1. Time and Space Complexity",
         "2. Recursion and Backtracking/3. Recursion with ArrayLists",
         "1. Basics of Programming/4. 2D Arrays",
-        "3. Dynamic Programming/2. Dynamic Programming and Greedy"
+        "2. Recursion and Backtracking/4. Recursion on the way up"
     ]
 }
