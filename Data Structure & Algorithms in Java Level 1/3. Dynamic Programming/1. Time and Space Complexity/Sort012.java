@@ -7,6 +7,12 @@ public class Sort012 {
     //write your code here
     int i=0,j=0;
     int k=arr.length-1;
+
+    // 0 to j-1 => is all 0's
+    // j to i-1 => is all 1's
+    // i to k => is all unknowns
+    // k+1 to end => is all 2's
+
     while(i<=k){
         if(arr[i]==1){
             i++;
