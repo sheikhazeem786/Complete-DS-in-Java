@@ -16,7 +16,7 @@ public class CountSort {
      farr[val-min]++;
    }
 
-   // convert the frequency to SrefixSumArray
+   // convert the frequency to PrefixSumArray
    for(int i=1;i<farr.length;i++){
      farr[i]+=farr[i-1];
    }
