@@ -5,7 +5,7 @@ public class RadixSort {
 
   public static void radixSort(int[] arr) {
     // write code here   
-        
+       
     int max=arr[0];
     for(int i=1;i<arr.length;i++){
         if(arr[i]>max){
@@ -44,7 +44,7 @@ public class RadixSort {
         ans[pos-1]=arr[i];
         farr[val]--;
     }
-
+ 
     // fill the original array
     for(int i=0;i<ans.length;i++){
         arr[i]=ans[i];
