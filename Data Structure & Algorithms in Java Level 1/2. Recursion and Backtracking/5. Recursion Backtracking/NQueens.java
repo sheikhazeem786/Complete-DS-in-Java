@@ -17,14 +17,16 @@ public class NQueens {
             System.out.println(qsf+".");
             return;
         }
+
+        // node pre (do)
         for(int col=0; col<chess.length;col++){
             if(IsItSafeForTheQueen(chess, row, col)==true){
-                chess[row][col]=1;
+                chess[row][col]=1; // edge pre (do)
                 printNQueens(chess, qsf + row + "-" + col + ", ", row+1);
-                chess[row][col]=0;
-            }
-            
+                chess[row][col]=0; // edge post (undo)
+            }    
         }
+        // node post (undo)
     }
 
     public static boolean IsItSafeForTheQueen(int[][] chess, int r, int c) {
